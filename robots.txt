@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://ooxolahshu.bratislavasidlo.sk/sitemap.xml
